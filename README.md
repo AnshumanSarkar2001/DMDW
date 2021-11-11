@@ -1,11 +1,11 @@
 # DMDW
 Practical assessment on DMDW subject <br />
 **Assignment 1**:<br />
-Choose a dataset of your own choice and explain the problem you are trying to solve using decision trees. (In this case I used iris dataset.)<br />
+Choose a dataset of your own choice and explain the problem you are trying to solve using decision trees. (In this case I used iris dataset.)<br /><br />
 **Assignment 2**:<br />
-Write 10 important commands in NumPy and 5 important commands in Panda.<br />
+Write 10 important commands in NumPy and 5 important commands in Panda.<br /><br />
 **Assignment 3**:<br />
-Compute the following with and without using libraries (numpy, scipy) and interpret the computed values<br />
+Compute the following with and without using libraries (numpy, scipy) and interpret the computed values
 1. Variance<br />
 2. Standard deviation<br />
 3. Covariance and Covariance Matrix<br />
